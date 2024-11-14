@@ -4,9 +4,9 @@
     --color-default: #ff0070;
     --color-accent: var(--color-default);
     --title-color: var(--color-default);
-    
+
     --text-color: #f1b2ce; 
-  
+    
     --decor-color-text: var(--background-color);
     --decor-color-background: var(--color-accent);
     --header-title: #db00ff;
