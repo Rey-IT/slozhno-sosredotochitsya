@@ -11,6 +11,10 @@
     --decor-color-background: var(--color-accent);
     --header-title: #db00ff;
     --header-title-shadow: var(--color-default);
+
+    .rec {
+        display: block;
+    }
 }
   
 @media (prefers-color-scheme: dark) {

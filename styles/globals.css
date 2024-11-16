@@ -63,6 +63,7 @@ button:hover {
 
 .link {
     text-shadow: 2px 2px 0 var(--color-accent);
+    text-decoration: none;
 }
 
 .link:hover {
